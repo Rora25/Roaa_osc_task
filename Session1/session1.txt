@@ -22,6 +22,9 @@
   ls ~/Roaa\ Hamdy
 
 8-cat .hidden_file.txt
+  mv .hidden_file.txt ~/Roaa\ Hamdy/My_Documents
+  nano .hidden_file.txt
+  cat .hidden_file.txt
 
 9-mv file2.txt file3.txt ~/Roaa\ Hamdy/My_Documents
   ls ~/Roaa\ Hamdy/My_Documents
