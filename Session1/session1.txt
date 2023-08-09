@@ -13,7 +13,7 @@
 4-nano file1.txt
   cat file1.txt
 
-5-cd Documents
+5-cd .
 
 6-mkdir ./-
   cd ./-
@@ -23,9 +23,9 @@
 
 8-cat .hidden_file.txt
 
-9-mv file2.txt file3.txt ~/Roaa\ Hamdy
-  ls ~/Roaa\ Hamdy
+9-mv file2.txt file3.txt ~/Roaa\ Hamdy/My_Documents
+  ls ~/Roaa\ Hamdy/My_Documents
 
-10-cd ~
+10-cd ~/Roaa\ Hamdy
    rm -r Roaa\ Hamdy
    ls ~
